@@ -1,0 +1,15 @@
+#message{
+    text-align: justify;
+    margin: 0;
+    text-decoration-color: rgb(79, 13, 165);
+    -moz-text-decoration-color:black;
+    color: pink;
+    font-size: 25px;
+    font-weight: lighter;
+    text-decoration: underline;
+    text-decoration-color:black;
+}
+#btn{
+    color: whitesmoke;
+    background-color: black;
+}
